@@ -1,1 +1,1 @@
-alert("Bem vindo à página!");
+alert("Script alterado para nova mensagem!");
